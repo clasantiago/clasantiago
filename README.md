@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Clarissa! 👩‍💻✨<br><br>🎓 2nd Year Computer Science Student at UST Manila<br>🌱 Beginner in coding — learning step by step<br><br>I'm still exploring the world of programming and I'm excited to create small projects and grow my skills. I believe every line of code is a step toward becoming a better developer! 💻🚀<br><br>📌 Looking forward to sharing my journey and learning along the way! br><br>
+Hi, I'm Clarissa! 👩‍💻✨<br><br>🎓 2nd year Computer Science student at UST Manila<br>🌱 Beginner in coding — learning step by step<br><br>I'm still exploring the world of programming and I'm excited to create small projects and grow my skills. I believe every line of code is a step toward becoming a better developer! 💻🚀<br><br>📌 Looking forward to sharing my journey and learning along the way! br><br>
 
 
 ## 🌐 Socials:
